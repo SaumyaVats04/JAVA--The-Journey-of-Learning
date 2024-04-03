@@ -1,3 +1,6 @@
+// Date:30-03-2024 ,This is the journey of learning
+//CodeWithSaumya: Code50
+//Completing #50codes is a big milestone for me. It's not just about completing the code, but understanding it and writing my own version of
 public class Code50 {
     public static void main(String[] args) {
         // Check if a number is 10
