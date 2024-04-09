@@ -2,6 +2,8 @@
 //CodeWithSaumya: Code5
 // Code Block 
 //Java allows two or more statement to be grouprd into block of code.
+
+
 public class Code5 {
     public static void main(String[] args) {
         int x, y;
